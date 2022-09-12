@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfce64c2-21a2-443c-bba4-6f19f0f1f7de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2EFnhtkCp1bjliYbmDPJkRn5HzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/suo/pagetest/entity" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86131\Desktop\PageTest\src\main\java\com\suo\pagetest\entity" />
+      <recent name="C:\Users\86131\Desktop\PageTest\src\main\resources\static\front" />
+      <recent name="C:\Users\86131\Desktop\PageTest\src\main\java\com\suo\pagetest" />
+      <recent name="C:\Users\86131\Desktop\PageTest\src\main\resources\static\backend\page" />
+      <recent name="C:\Users\86131\Desktop\PageTest\src\main\resources\static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.suo.pagetest.service" />
+      <recent name="com.suo.pagetest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.suo.pagetest.service.impl" />
+      <recent name="com.suo.pagetest.service" />
+      <recent name="com.suo.pagetest.mapper" />
+      <recent name="com.suo.pagetest.entity" />
+      <recent name="com.suo.pagetest.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PageTestApplication">
+    <configuration name="PageTestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PageTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suo.pagetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suo.pagetest" />
+      <option name="MAIN_CLASS_NAME" value="com.suo.pagetest.PageTestApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTestApplicationTests.getConncetion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PageTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suo.pagetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suo.pagetest" />
+      <option name="MAIN_CLASS_NAME" value="com.suo.pagetest.PageTestApplicationTests" />
+      <option name="METHOD_NAME" value="getConncetion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMapperTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PageTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suo.pagetest.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suo.pagetest.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.suo.pagetest.mapper.StudentMapperTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PageTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suo.pagetest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suo.pagetest.service" />
+      <option name="MAIN_CLASS_NAME" value="com.suo.pagetest.service.StudentServiceTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PageTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suo.pagetest.PageTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentServiceTest.Test" />
+        <item itemvalue="JUnit.StudentMapperTest.Test" />
+        <item itemvalue="JUnit.PageTestApplicationTests.getConncetion" />
+        <item itemvalue="JUnit.PageTestApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfce64c2-21a2-443c-bba4-6f19f0f1f7de" name="Default Changelist" comment="" />
+      <created>1662200323508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662200323508</updated>
+      <workItem from="1662200325293" duration="15344000" />
+      <workItem from="1662253063456" duration="3916000" />
+      <workItem from="1662257014229" duration="2470000" />
+      <workItem from="1662443529067" duration="21183000" />
+      <workItem from="1662514654477" duration="27438000" />
+      <workItem from="1662599031042" duration="12178000" />
+      <workItem from="1662622607102" duration="2070000" />
+      <workItem from="1662624697662" duration="15939000" />
+      <workItem from="1662682879157" duration="99000" />
+      <workItem from="1662683034479" duration="281000" />
+      <workItem from="1662683399281" duration="7659000" />
+      <workItem from="1662860134522" duration="15912000" />
+      <workItem from="1662943715060" duration="1041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
